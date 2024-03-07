@@ -1,7 +1,6 @@
 def solution(a, b):
     answer = 0
-    mi = 0
-    ma = 0 
+    
     if a > b:
         mi = b
         ma = a
